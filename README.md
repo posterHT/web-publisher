@@ -7,8 +7,7 @@ Kullancıların websitelerini veya website projelerini iş arkadaşları ile pay
 # Kullanım
 Platform şirketler ortamına özel hazırlanmıştır işçilerin oluşturduğu websitesi veya URL ekleri tıklanma sayısana göre sıralanmaktadır her URL bir başlık açıklama ve simgeye sahiptir. Görsel,Metin,Url,Website paylaşım türleri desteklenmektedir.
 
-# Nasıl Çalışır
-Platform herhangi SQL veritabanına verileri çeker veya yazar.
+
 
 # Uyarılar
 Kullanılan veritabanı ile ilgili açıklıklardan sadece şirket sorumludur   platformu işçilere sunmadan önce güvenlik kontrolünden geçiriniz.
